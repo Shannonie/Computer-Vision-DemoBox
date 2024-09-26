@@ -1,7 +1,7 @@
 # Computer Vision DemoBox
 - A real-time prediction application using computer vision models, including YOLOv4, DeepLab, classification, and anomaly detection, featuring with a WinForms user interface
 - Techniques:
-  - Computer Vision Models
+  - CNN
   - Camera Parameter Calibration
   - Digital Image Processing
   - Multi-threading
