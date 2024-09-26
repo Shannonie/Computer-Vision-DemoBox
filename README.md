@@ -1,9 +1,10 @@
 # Computer Vision DemoBox
-- Real-time predictions with Computer Vision models(YOLOv4, DeepLab, Classification, Anomaly Detection) as packaged library
-- Winform GUI, high-resolution camera SDK with parameters calibration for streaming image, EmguCV for image processing tasks
+- A real-time prediction application using computer vision models, including YOLOv4, DeepLab, classification, and anomaly detection, featuring with a WinForms user interface
 - Techniques:
+  - Computer Vision Models
+  - Camera Parameter Calibration
   - Digital Image Processing
-  - Multithreading
+  - Multi-threading
 
 # Package
 - EMGU.CV.4.1.1.3497
